@@ -2,7 +2,7 @@
   <img alt="Logo" src="https://i.ibb.co/KzxRjwV/Capture.png" width="100" />
 </div>
 <h1 align="center">
-  Mahin Arafat Meem
+  Mahin Arafat Meiem
 </h1>
 <p align="center">
   Special Thanks to Brittany chiang  who built it with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and I developed and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
