@@ -5,15 +5,15 @@ skills:
   - JavaScript (ES6+)
   - HTML & (S)CSS
   - React.js
-  - Express.js  
+  - Express.js
   - Vue.js
   - Node.js
   - Next.js
   - MongoDB
-  
+
 ---
 
-Hello! I'm [Asaduzzaman](https://www.linkedin.com/in/asaduzzaman-sajeeb/), a Curious Web Developer.
+Hello! I'm [Md Mahin Arafat](https://www.linkedin.com/in/mahin-arafat/), a Curious Web Developer.
 
 I have accomplished my B.Sc in Computer Science  on October,2020 from [Brac University](https://www.bracu.ac.bd/) and currently working as a Software Engineer at Eastwestnets.
 
