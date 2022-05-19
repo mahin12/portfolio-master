@@ -13,7 +13,7 @@ skills:
 
 ---
 
-Hello! I'm [Md Mahin Arafat](https://www.linkedin.com/in/mahin-arafat/), a Curious Web Developer.
+Hello! I'm [Md Mahin Arafat](https://www.linkedin.com/in/mahin-arafat/), a Computer Science Enthuasist.
 
 I have accomplished my B.Sc in Computer Science  on October,2020 from [Brac University](https://www.bracu.ac.bd/) and currently working as a Software Engineer at Eastwestnets.
 
