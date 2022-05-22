@@ -10,7 +10,7 @@ module.exports = {
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
   name: 'Asaduzzaman Sajeeb',
   location: 'Dhaka, Bangladesh',
-  email: 'sajeebasaduzzaman@gmail.com',
+  email: 'mahinarafatmeem@gmail.com',
   github: 'https://github.com/Asaduzzaman607/',
   twitterHandle: '@BeingSajeeb',
   socialMedia: [
