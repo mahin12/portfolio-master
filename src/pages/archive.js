@@ -109,7 +109,7 @@ const ArchivePage = ({ location, data }) => {
   return (
     <Layout location={location}>
       <Helmet>
-        <title>Archive | Asaduzzaman Sajeeb</title>
+        <title>Archive | Md Mahin Arafat</title>
         <link rel="canonical" href="https://asaduzzaman-sajeeb.netlify.app/archive" />
       </Helmet>
 
@@ -235,7 +235,7 @@ export const pageQuery = graphql`
             tech
             github
             external
-  
+
             company
           }
           html

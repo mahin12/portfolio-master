@@ -105,7 +105,7 @@ const Footer = () => {
           href="https://github.com/Asaduzzaman607"
           target="_blank"
           rel="nofollow noopener noreferrer">
-          <div>Developed by Asaduzzaman Sajeeb</div>
+          <div>Developed by Md Mahin Arafat</div>
 
           {githubInfo.stars && githubInfo.forks && (
             <StyledGitHubInfo>
