@@ -1,10 +1,10 @@
 ---
-date: '2020-12-29'
-title: 'Software Engineer'
-company: 'Sheba Platform Limited'
-location: 'Banani, Dhaka, Bangladesh'
-range: 'January,2021 -November, 2021'
-url: 'https://sheba-platform.xyz/'
+date: '2019-01-01'
+title: 'Web Application Developer Intern'
+company: 'Saleduck Asia'
+location: 'The Vertical, 59200 Kuala Lumpur, Malaysia'
+range: '22nd January,2019 - 22nd January, 2020'
+url: 'https://corporate.saleduck.com/'
 ---
 
 - There, I worked in a scrum/agile team named sManager’s E-COM
