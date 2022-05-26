@@ -1,38 +1,38 @@
 module.exports = {
   siteTitle: 'Md Mahin Arafat | Software Engineer',
   siteDescription:
-    'Asaduzzaman Sajeeb is a software engineer  who specializes in building and designing exceptional websites, applications, and everything in between.',
+    'Md Mahin Arafat is a software engineer  who specializes in building and designing exceptional websites, applications, and everything in between.',
   siteKeywords:
-    'Asaduzzaman Sajeeb, Asaduzzaman, Sajeeb, Asad, software engineer, front-end engineer, web developer, javascript, northeastern',
+    'Md Mahin Arafat, Meiem, Mahin, Arafat, software engineer, front-end engineer, web developer, javascript, northeastern',
   siteUrl: 'https://mdmahinarafat.netlify.app/',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-45666519-2',
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
-  name: 'Asaduzzaman Sajeeb',
-  location: 'Dhaka, Bangladesh',
+  name: 'Md Mahin Arafat',
+  location: 'Toronto, Canada',
   email: 'mahinarafatmeem@gmail.com',
-  github: 'https://github.com/Asaduzzaman607/',
-  twitterHandle: '@BeingSajeeb',
+  github: 'https://github.com/mahin12',
+  twitterHandle: '@mahinarafat12',
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/Asaduzzaman607/',
+      url: 'https://github.com/mahin12',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/asaduzzaman-sajeeb/',
+      url: 'https://www.linkedin.com/in/mahin-arafat/',
     },
     {
       name: 'Codepen',
-      url: 'https://codepen.io/asaduzzaman607',
+      url: '',
     },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/being_sajeeb/',
+      url: 'https://www.instagram.com/meiem12/',
     },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/BeingSajeeb',
+      url: 'https://twitter.com/mahinarafat12',
     },
   ],
 
