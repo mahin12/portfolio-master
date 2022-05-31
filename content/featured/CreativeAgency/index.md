@@ -1,16 +1,17 @@
 ---
-date: '9'
-title: 'Creative Agency'
-cover: './creative.png'
-github: 'https://github.com/Asaduzzaman607/mern-creative-agency-client'
-external: 'https://mern-creative-agency.web.app/'
+date: '8'
+title: 'Expensee'
+cover: './expensee.png'
+github: 'https://github.com/alisumait/react-expensee'
+external: 'https://expenseeapp.herokuapp.com/'
 tech:
   - React
-  - Node.js
-  - Express
-  - MongoDB
-  - React-Bootstrap
+  - HTML
+  - Javascript
+  - CSS
+
 showInProjects: true
 ---
 
-A dynamic secured website where users can login and order for a service which is saved in a database.Users can post a review on the landing page.Even, admins can see the services ordered and change the status.
+Expensee is a ReactJS + Firebase app that helps you manage your expenses and track your financial goals.
+
