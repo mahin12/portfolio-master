@@ -8,8 +8,6 @@ skills:
   - Python
   - Django
   - Git
-
-
 ---
 
 Hello! I'm [Md Mahin Arafat](https://www.linkedin.com/in/mahin-arafat/), a Computer Science Enthuasist.
