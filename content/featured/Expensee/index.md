@@ -14,4 +14,3 @@ showInProjects: true
 ---
 
 Expensee is a ReactJS + Firebase app that helps you manage your expenses and track your financial goals.
-
