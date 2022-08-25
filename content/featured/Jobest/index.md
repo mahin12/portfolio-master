@@ -1,6 +1,6 @@
 ---
 date: '8'
-title: 'jobest'
+title: 'Jobest'
 cover: './portal.png'
 github: 'https://mahin12.github.io/jobest/'
 external: ''
