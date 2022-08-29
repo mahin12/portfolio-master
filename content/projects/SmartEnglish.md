@@ -10,4 +10,4 @@ company: ''
 showInProjects: true
 ---
 
-A project where I learnt the scrum and agile methodology.
+A project where I learnt the scrum and agile methodology. And got my hands dirty on the Software Quality Assurance.
