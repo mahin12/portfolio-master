@@ -1,13 +1,13 @@
 ---
 date: '2020-03-27'
-title: 'Hotel Burj-Al-Arab'
-github: 'https://github.com/Asaduzzaman607/react-burj-al-arab'
-external: 'https://react-burj-al-arab.netlify.app/'
+title: 'Smart English Tutor'
+github: ''
+external: ''
 tech:
-  - React
-  - React-Bootstrap
-  - Firebase
+  - Agile Methodology
+  - Software Requirement
 company: ''
 showInProjects: true
 ---
-A dynamic hotel management app . Users can find their desired rooms from here.
+
+A project where I learnt the scrum and agile methodology.
