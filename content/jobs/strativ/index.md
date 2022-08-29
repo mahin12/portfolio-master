@@ -7,5 +7,10 @@ range: '1st June,2021 - 31st December, 2021'
 url: 'https://strativ.se/en/'
 ---
 
-- Here, I'm currently working in the development team
-to develop their websites with ReactJs and Redux.
+- Worked on different web development projects
+
+- Learned to work on client-based projects, and attended and dealt with multiple clients
+
+- Utilized knowledge in SQL, Python, Django, and JavaScript
+
+- Changed the entire theme and added functionalities for the internal ERP system

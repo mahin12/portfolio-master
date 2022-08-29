@@ -7,13 +7,14 @@ range: '22nd January,2019 - 22nd January, 2020'
 url: 'https://corporate.saleduck.com/'
 ---
 
-- There, I worked in a scrum/agile team named sManager’s E-COM
-to develop Sheba’s e-Commerce websites with NextJs and Redux.
+- Worked with the development and maintenance of various websites of Saleduck
 
-- Developed Sheba’s e-Commerce websites using modern technologies
-such as JavaScript, NextJS, React.JS, Vue.JS.
-- Got experience to leverage front-end knowledge and experience to
-build interactive and user-centered website designs to scale.
+- Worked in SASS, PHP, Laravel framework, HTML and CSS
 
-- Moreover, I maintained Jira and Bitbucket very well to track all the work progress
-and tasks are given on each sprint.
+- Used professional product management tools and developer tools like Bitbucket, Slack, Git,
+  Docker etc
+
+- Learned the basics of backend development and database such as MySQL
+
+- Followed and learned deeply and used the model, view and controller and used the components
+  to maintain the system architecture

@@ -7,5 +7,6 @@ range: '1st July,2018 - 31 August, 2021'
 url: 'https://strativ.se/en/'
 ---
 
-- Here, I'm currently working in the development team
-to develop their websites with ReactJs and Redux.
+- Participated in changing website designs according to the clients' requirements
+
+- Learned how to make codes more effective and efficient using bootstrap tools
