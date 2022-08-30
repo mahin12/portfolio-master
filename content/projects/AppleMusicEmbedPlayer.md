@@ -1,14 +1,14 @@
 ---
 date: '2020-07-01'
-title: 'Pin Generate Master'
-github: 'https://github.com/Asaduzzaman607/js-pin-master'
-external: 'https://asaduzzaman607.github.io/js-pin-master/'
+title: 'Wordpress - Personal Blog'
+github: ''
+external: 'https://mahinarafat.wordpress.com/'
 tech:
   - HTML
-  - JavaScript
+  - Wordpress
   - CSS
 company: ''
 showInProjects: true
 ---
 
-A single page of random pin master generator site where people are able to generate random pin everytime and can verify whether it is correct or wrong.
+A blog in wordpress in which I've worked on, in my teenage days.
