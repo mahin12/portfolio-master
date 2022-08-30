@@ -11,4 +11,4 @@ company: ''
 showInProjects: true
 ---
 
-A blog in wordpress in which I've worked on, in my teenage days.
+A blog in wordpress in which I've worked on, in my teenage days. This was my first days of feeling enthusiastic about the realm of web development.
