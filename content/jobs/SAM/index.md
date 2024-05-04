@@ -3,7 +3,7 @@ date: '2022-06-01'
 title: 'Associate Project Lead'
 company: 'Sirius App Messenger'
 location: 'Oshawa, Canada'
-range: '1st July,2022 - Present'
+range: '1st July,2022 - 1 September, 2022'
 url: ''
 ---
 

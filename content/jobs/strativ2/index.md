@@ -1,9 +1,9 @@
 ---
 date: '2018-06-11'
-title: 'Web Application Developer Summer Intern'
+title: 'Web Application Developer'
 company: 'Strativ AB'
 location: 'House: 684, Avenue: 06, Road: 9, Dhaka 1216, Bangladesh'
-range: '1st July,2018 - 31 August, 2021'
+range: '1st July,2018 - 31 August, 2018'
 url: 'https://strativ.se/en/'
 ---
 
