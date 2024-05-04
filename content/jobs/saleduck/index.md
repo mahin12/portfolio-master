@@ -1,20 +1,18 @@
 ---
 date: '2019-01-01'
-title: 'Web Application Developer Intern'
+title: 'Software Engineer'
 company: 'Saleduck Asia'
 location: 'The Vertical, 59200 Kuala Lumpur, Malaysia'
-range: '22nd January,2019 - 22nd January, 2020'
+range: '22nd January,2020 - 2nd January, 2022'
 url: 'https://corporate.saleduck.com/'
 ---
 
-- Worked with the development and maintenance of various websites of Saleduck
+- Enhanced system loading speed 3 times faster, particularly beneficial in slower internet countries.
 
-- Worked in SASS, PHP, Laravel framework, HTML and CSS
+- Achieved Google Lighthouse scores consistently exceeding 98%, ensuring optimal website speed, SEO, and accessibility.
 
-- Used professional product management tools and developer tools like Bitbucket, Slack, Git,
-  Docker etc
+- Aced codebase transformation to the MVC pattern, resulting in 30% faster development cycles and significantly improved code maintainability.
 
-- Learned the basics of backend development and database such as MySQL
+- Utilized PHP, Laravel framework, HTML, CSS, and SASS to implement changes that led to these improvements.
 
-- Followed and learned deeply and used the model, view and controller and used the components
-  to maintain the system architecture
+- Implemented professional product management tools (Bitbucket, Slack, Git, Docker) to streamline SDLC processes.

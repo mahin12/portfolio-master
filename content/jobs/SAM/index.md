@@ -1,16 +1,16 @@
 ---
 date: '2022-06-01'
-title: 'Web Application Developer'
+title: 'Associate Project Lead'
 company: 'Sirius App Messenger'
 location: 'Oshawa, Canada'
 range: '1st July,2022 - Present'
 url: ''
 ---
 
-- Helping with making a robust code base for upcoming projects
+- Led the project management efforts for Sirius App Messenger, overseeing the development and debugging of software systems.
 
-- Using React.JS and APIs on development
+- Orchestrated unit testing and Java coding processes, ensuring the adherence to project timelines and quality standards.
 
-- Integrating the codebase between frontend and the backend
+- Implemented Agile methodologies for continuous integration of software systems, optimizing project efficiency.
 
-- Learning client management and understanding responsibilities to shape the project
+- Effectively managed project responsibilities, driving success through strategic planning and efficient resource allocation.
