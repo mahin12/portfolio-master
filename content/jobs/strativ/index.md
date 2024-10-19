@@ -1,16 +1,18 @@
 ---
-date: '2021-06-11'
-title: 'Junior Software Engineer'
+date: '2022-06-11'
+title: 'Cyber Threat Investigator'
 company: 'Strativ AB'
 location: 'House: 684, Avenue: 06, Road: 9, Dhaka 1216, Bangladesh'
-range: '1st June,2021 - 31st December, 2021'
+range: '1st September,2022 - 31st December, 2023'
 url: 'https://strativ.se/en/'
 ---
 
-- Worked on different web development projects
+- Enforced stringent cybersecurity protocols, markedly diminishing the frequency of security incidents and associated risks.
 
-- Learned to work on client-based projects, and attended and dealt with multiple clients
+- Efficiently identified, scrutinized, and neutralized security breaches to curtail potential harm and safeguard company systems & data, utilizing open-source resources such as VirusTotal, Urlscan, among others.
 
-- Utilized knowledge in SQL, Python, Django, and JavaScript
+- Led the charge in rectifying security breaches, performing thorough risk and threat evaluations.
 
-- Changed the entire theme and added functionalities for the internal ERP system
+- Directed an in-depth analysis of cyber threat intelligence, identifying and mitigating over potential security breaches, significantly enhancing the organization's threat response capabilities using firewall, SIEM and IDS/IPS technologies.
+
+
